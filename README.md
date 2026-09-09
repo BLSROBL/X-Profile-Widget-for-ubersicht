@@ -1,10 +1,21 @@
-It shows the profile picture and number of followers of your chosen X account WITHOUT the API.
+# X Profile Widget for Übersicht
 
-I got Idea from https://tracesof.net/uebersicht-widgets/#uebersicht-widget-TwitterProfile made as new version.
+Display the **profile picture and follower count of any X account** directly on your desktop — **without using the X API**.
 
-To install
+This widget was inspired by the [Twitter Profile widget](https://tracesof.net/uebersicht-widgets/#uebersicht-widget-TwitterProfile) from Traces of.net and was created as a new and updated version.
 
-Download a zip of this repository and put it to the übersicht widgets folder. Then enter the X profile you want to display
+## Installation
 
-# Your X account you want to see (write your username)
-twitter_account = "BLSROBL"
+Download the ZIP file from this repository and place the widget in your **Übersicht Widgets folder**.
+
+Then open the widget script and enter the X account you want to display.
+
+### Enter Your X Account
+
+Set the username of the X account you want to display:
+
+```text
+twitter_account = "YOUR USERNAME"
+```
+
+Replace `YOUR USERNAME` with the username of the X account you want to use.
