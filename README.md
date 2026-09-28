@@ -15,7 +15,7 @@ Then open the widget script and enter the X account you want to display.
 Set the username of the X account you want to display:
 
 ```text
-twitter_account = "YOUR USERNAME"
+X_account = "YOUR USERNAME"
 ```
 
 Replace `YOUR USERNAME` with the username of the X account you want to use.
